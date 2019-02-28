@@ -3,6 +3,8 @@
 
 """
 从视屏中识别人脸，并实时标出面部特征点
+人脸识别第一天代码练习
+@author Thrones
 """
 
 import dlib                     #人脸识别的库dlib

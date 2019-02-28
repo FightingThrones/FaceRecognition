@@ -1,5 +1,8 @@
+
 """
 Face detect demo
+人脸识别学习第一天代码练习
+@author:Thrones
 """
 # import face_recognition
 # import cv2
